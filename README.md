@@ -7,6 +7,7 @@ As the name says, it is supposed to be the skeleton of an API: the basic CRUD op
 - [Installation](#installation)
 - [Instructions](#instructions)
 - [Software Architecture](#software-archicteture)
+- [Observations](#Observations)
 - [Considerations](#considerations)
 
 ## Objectives
